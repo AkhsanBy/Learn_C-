@@ -1,2 +1,2 @@
-# Learn_C-
+# Learn_Cpp
 project latihan pribadi
